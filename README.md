@@ -19,7 +19,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/nadjieb08/nadjieb-Md
 cd nadjieb[MD]
 npm install
 ```
@@ -32,7 +32,7 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/nadjieb08/nadjieb-Md
 cd nadjieb[MD]
 npm install
 ```
@@ -65,7 +65,7 @@ ganti session di session.json
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/nadjieb08/nadjieb-Md/blob/main/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
