@@ -1,4 +1,4 @@
-# Hisoka-Morou
+# nadjieb-AhmAd
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -11,11 +11,6 @@ This Script is for everyone, not for Sale
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
-WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-
-
 ## UNTUK PENGGUNA WINDOWS/RDP
 
 * Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
@@ -25,7 +20,7 @@ WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdn
 
 ```bash
 git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+cd nadjieb[MD]
 npm install
 ```
 
@@ -38,7 +33,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+cd nadjieb[MD]
 npm install
 ```
 
@@ -87,7 +82,5 @@ Support Me
 * [`Saweria`](https://saweria.co/DikaArdnt)
 
 ## Contact Me
-* [`Wangsap`](https://wa.me/6288292024190)
-* [`Igeh`](https://instagram.com/cak_haho)
-* [`Pesbuk`](https://www.facebook.com/Haho.id)
+* [`Wangsap`](https://wa.me/6282234343854)
 
